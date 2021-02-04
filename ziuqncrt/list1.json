@@ -4,7 +4,7 @@
     "image": "https://i.pinimg.com/originals/83/83/62/838362a1ceae12acdb3c36ce29efe0ff.png",
     "title": "Set 1 (ONE)",
     "description": "NCERT QUIZ GK1SET1",
-    "section": "Question",
+    "category": "Question",
     "banner": "",
     "interstital": ""
   },
@@ -13,7 +13,7 @@
     "image": "https://i.pinimg.com/564x/9b/04/b9/9b04b9096f556ab14747672519e4ca40.jpg",
     "title": "Set 2 (TWO)",
     "description": "NCERT QUIZ GK1SET2",
-    "section": "Question",
+    "category": "Question",
     "banner": "",
     "interstital": ""
   },
@@ -22,25 +22,25 @@
     "image": "https://i.pinimg.com/564x/b1/3b/e9/b13be9a469eb880f4425d6f6cd476c05.jpg",
     "title": "Set 3 (THREE)",
     "description": "NCERT QUIZ GK1SET3",
-    "section": "Question",
+    "category": "Question",
     "banner": "",
     "interstital": ""
   },
   {
     "link": "https://42zengyxp.github.io/upsq/UPSCGk1Set4.json",
-    "image": "https://i.pinimg.com/564x/fc/e2/76/fce27672769e6f8b6c322dc39984128e.jpg",
+    "image": "",
     "title": "Set 4 (FOUR)",
     "description": "NCERT QUIZ GK1SET4",
-    "section": "Question",
+    "category": "Question",
     "banner": "",
     "interstital": ""
   },
   {
     "link": "https://42zengyxp.github.io/upsq/UPSCGk1Set5.json",
-    "image": "https://i.pinimg.com/564x/b5/d6/1b/b5d61b35530bb1e6f4a826da9372ae01.jpg",
+    "image": "",
     "title": "Set 5 (FIVE)",
     "description": "NCERT QUIZ GK1SET5",
-    "section": "Question",
+    "category": "Question",
     "banner": "",
     "interstital": ""
   }
