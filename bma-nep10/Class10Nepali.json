@@ -1,37 +1,37 @@
 [
   {
-    "title": "",
-    "description": "",
-    "image": "https://pzywx332zzwertw3ccor-euittp0opqwervxt58.github.io/review/review.jpg",
-    "category": "",
-    "link": ""
+    "title": "Guide SEE Nepali",
+    "description": "All the necessary text tutorials of Nepali",
+    "image": "https://p8xyz.github.io/Class10Nepali/Image/ChapterIcon/guide.png",
+    "category": "List",
+    "link": "https://pzywx332zzwertw3ccor-euittp0opqwervxt58.github.io/bma-nep10/Guide1.json"
   },
 {
-    "title": "",
-    "description": "",
-    "image": "https://pzywx332zzwertw3ccor-euittp0opqwervxt58.github.io/review/review.jpg",
-    "category": "",
-    "link": ""
+    "title": "Nepali Guide Book",
+    "description": "Nepali Guide Book",
+  "image": "https://p8xyz.github.io/Class10Nepali/Image/ChapterIcon/guide.png",
+    "category": "List",
+    "link": "https://pzywx332zzwertw3ccor-euittp0opqwervxt58.github.io/bma-nep10/Guide2.json"
   },
   {
-    "title": "",
-    "description": "",
-    "image": "https://pzywx332zzwertw3ccor-euittp0opqwervxt58.github.io/review/review.jpg",
-    "category": "",
-    "link": ""
+    "title": "Nepali Book",
+    "description": "All Chapters Nepali Book",
+    "image": "https://p8xyz.github.io/Class10Nepali/Image/ChapterIcon/book.png",
+    "category": "List",
+    "link": "https://pzywx332zzwertw3ccor-euittp0opqwervxt58.github.io/bma-nep10/Books.json"
   },
   {
-    "title": "",
-    "description": "",
-    "image": "https://pzywx332zzwertw3ccor-euittp0opqwervxt58.github.io/review/review.jpg",
-    "category": "",
-    "link": ""
+    "title": "All Chapter Covered Questions",
+    "description": "Important Question and Model Questions",
+    "image": "https://p8xyz.github.io/Class10Nepali/Image/ChapterIcon/book.png",
+    "category": "List",
+    "link": "https://pzywx332zzwertw3ccor-euittp0opqwervxt58.github.io/bma-nep10/Questions.json"
   },
   {
-    "title": "",
-    "description": "",
-    "image": "https://pzywx332zzwertw3ccor-euittp0opqwervxt58.github.io/review/review.jpg",
-    "category": "",
-    "link": ""
+    "title": "Nepali Chapterwise Videos",
+    "description": "Tutorials about the Nepali Book Chapters",
+    "image": "https://p8xyz.github.io/Class10Nepali/Image/ChapterIcon/video.png",
+    "category": "Video",
+    "link": "https://pzywx332zzwertw3ccor-euittp0opqwervxt58.github.io/bma-nep10/NepaliVideo.json"
   }
 ]
